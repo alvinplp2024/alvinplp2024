@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://alvin-ondieki-portfolio.abrdns.com/" target="_blank">
+  <a href="https://www.alvin-ondieki-portfolio.abrdns.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://x.com/alvin_ondieki" target="_blank">
