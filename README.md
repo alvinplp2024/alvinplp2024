@@ -10,12 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://alvin-ondieki-portfolio.abrdns.com/" target="_blank">Portfolio</a> •
-  <a href="https://x.com/alvin_ondieki" target="_blank">Twitter/X</a> •
-  <a href="https://www.linkedin.com/in/alvin-ondieki" target="_blank">LinkedIn</a> •
-  <a href="https://play.google.com/store/apps/details?id=com.xoma.bookstores" target="_blank">XOMA App</a> •
-  <a href="https://play.google.com/store/apps/details?id=com.clsluxurycars.app" target="_blank">CLS Cars App</a>
+  <a href="https://alvin-ondieki-portfolio.abrdns.com/" target="_blank" style="text-decoration:none; margin:5px; padding:10px 20px; background-color:#4CAF50; color:white; border-radius:8px; font-weight:bold; font-size:16px;">Portfolio</a>
+  <a href="https://x.com/alvin_ondieki" target="_blank" style="text-decoration:none; margin:5px; padding:10px 20px; background-color:#1DA1F2; color:white; border-radius:8px; font-weight:bold; font-size:16px;">Twitter/X</a>
+  <a href="https://www.linkedin.com/in/alvin-ondieki" target="_blank" style="text-decoration:none; margin:5px; padding:10px 20px; background-color:#0077B5; color:white; border-radius:8px; font-weight:bold; font-size:16px;">LinkedIn</a>
+  <a href="https://play.google.com/store/apps/details?id=com.xoma.bookstores" target="_blank" style="text-decoration:none; margin:5px; padding:10px 20px; background-color:#F44336; color:white; border-radius:8px; font-weight:bold; font-size:16px;">XOMA App</a>
+  <a href="https://play.google.com/store/apps/details?id=com.clsluxurycars.app" target="_blank" style="text-decoration:none; margin:5px; padding:10px 20px; background-color:#FF9800; color:white; border-radius:8px; font-weight:bold; font-size:16px;">CLS Cars App</a>
 </p>
+
 
 ---
 
