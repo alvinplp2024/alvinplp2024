@@ -131,8 +131,7 @@ Docker, Kubernetes, Linux, VMware, Arduino, Raspberry Pi, REDCap, ODK, DF-Net
 ## 📫 Connect With Me
 - 📧 Email: **alvinondieki5@gmail.com**  
 - 🌐 Portfolio: [Portfolio](https://alvin-ondieki-portfolio.abrdns.com/)  
-- 🐦 Twitter/X: [Twitter](https://x.com/alvin_ondieki)  
-- 🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/alvin-ondieki)  
+- 🐦 Twitter/X: [Twitter](https://x.com/alvin_ondieki)   
 - 📸 Instagram: [Instagram](https://www.instagram.com/data_scientist045/)  
 
 ---
