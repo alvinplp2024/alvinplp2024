@@ -24,10 +24,7 @@
 
 ---
 
----
-
 ## 🏗️ Latest Production Projects
-
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.xoma.bookstores">
     <img src="https://img.shields.io/badge/XOMA-App-Production-F44336?style=for-the-badge&logo=android&logoColor=white" />
@@ -35,11 +32,10 @@
   <a href="https://play.google.com/store/apps/details?id=com.clsluxurycars.app">
     <img src="https://img.shields.io/badge/CLS-Cars-Production-FF9800?style=for-the-badge&logo=android&logoColor=white" />
   </a>
-  <a href="mailto:alvinondieki5@gmail.com">
+  <a href="mailto:alvinondieki5@gmail.com?subject=Request%20Access%20to%20PowerChins%20Project">
     <img src="https://img.shields.io/badge/PowerChins-Web-Request%20Access-4B0082?style=for-the-badge&logo=django&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
