@@ -14,7 +14,7 @@
   <a href="https://x.com/alvin_ondieki" target="_blank">Twitter/X</a> •
   <a href="https://www.linkedin.com/in/alvin-ondieki" target="_blank">LinkedIn</a> •
   <a href="https://play.google.com/store/apps/details?id=com.xoma.bookstores" target="_blank">XOMA App</a> •
-  <a href="https://play.google.com/store/apps/details?id=com.clsluxurycars.app" target="_blank">CLC Cars App</a>
+  <a href="https://play.google.com/store/apps/details?id=com.clsluxurycars.app" target="_blank">CLS Cars App</a>
 </p>
 
 ---
@@ -56,7 +56,7 @@ Docker, Kubernetes, Linux, VMware, Arduino, Raspberry Pi, REDCap, ODK, DF-Net
 
 ### 📱 Mobile & Cross-Platform Apps
 - **[XOMA App](https://play.google.com/store/apps/details?id=com.xoma.bookstores)** – Flutter/Dart + Supabase, scalable, smooth UI/UX  
-- **[CLC Cars App](https://play.google.com/store/apps/details?id=com.clsluxurycars.app)** – Flutter + REST APIs + Supabase  
+- **[CLS Cars App](https://play.google.com/store/apps/details?id=com.clsluxurycars.app)** – Flutter + REST APIs + Supabase  
 - Android Final IT Project – Java-based app with modern UI/UX  
 
 ### 🤖 AI & Data Science
@@ -103,7 +103,7 @@ Docker, Kubernetes, Linux, VMware, Arduino, Raspberry Pi, REDCap, ODK, DF-Net
   <img src="https://github-readme-stats.vercel.app/api?username=alvinplp2024&show_icons=true&count_private=true&theme=radical" alt="Alvin's GitHub Stats" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinplp2024&theme=radical" alt="Alvin's GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinplp2024&layout=compact&theme=radical" alt="Alvin's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinplp2024&layout=compact&theme=radical&hide=Jupyter%20Notebook&langs_count=5&custom_title=Most%20Used%20Languages" alt=" Alvin's Top Languages" />
 </p>
 
 ---
