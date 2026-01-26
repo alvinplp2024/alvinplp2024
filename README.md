@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋,  I'm Alvin Ondieki</h1>
+<h1 align="center">Hi 👋, I'm Alvin Onyiego Ondieki</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=500&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Engineer;Software+Engineer;IT+Specialist;Flutter+%26+Backend+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Engineer;Software+Engineer;IT+Specialist;Flutter+%26+Backend+Developer" />
 </p>
 
 <p align="center">
@@ -31,66 +31,22 @@ I deliver **end-to-end solutions** — from data collection, ETL pipelines, pred
 ## 🛠 Technical Skills
 
 **Programming & Development:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+Python, Java, C++, C, C#, Dart, JavaScript, PHP  
 
 **Frameworks & Mobile:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+Flutter, React.js, React Native, Django, Flask, Node.js, Spring Boot, Angular  
 
 **Data Science & AI:**  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=apache-zeppelin&logoColor=white)  
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge&logo=python&logoColor=white)  
-![Transformers](https://img.shields.io/badge/Transformers-000000?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-4B0082?style=for-the-badge&logo=python&logoColor=white)  
-![Time-Series Forecasting](https://img.shields.io/badge/Time-Series-800080?style=for-the-badge&logo=python&logoColor=white)  
-![ETL](https://img.shields.io/badge/ETL-FFA500?style=for-the-badge&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=python&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=python&logoColor=white)  
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+Machine Learning, Deep Learning, NLP, Transformers, Predictive Modeling, Time-Series Forecasting, ETL, MLOps, Model Deployment  
+
+**Visualization & Analysis:**  
+Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI, Tableau  
 
 **Databases & Cloud:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)  
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)  
+PostgreSQL, MySQL, MongoDB, SQLite, Firebase, Supabase, AWS, Azure, GCP, Apache Spark, Hadoop  
 
-**Other Tools & Systems:**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
-![REDCap](https://img.shields.io/badge/REDCap-CC0000?style=for-the-badge&logo=redcap&logoColor=white)  
-![ODK](https://img.shields.io/badge/ODK-1B5E20?style=for-the-badge&logo=android&logoColor=white)  
-![DF-Net](https://img.shields.io/badge/DF-Net-007FFF?style=for-the-badge&logo=python&logoColor=white)  
+**Systems & Tools:**  
+Docker, Kubernetes, Linux, VMware, Arduino, Raspberry Pi, REDCap, ODK, DF-Net  
 
 **Soft Skills:** Critical Thinking, Problem Solving, Teamwork, Adaptability, Time Management, Continuous Learning  
 
@@ -109,6 +65,7 @@ I deliver **end-to-end solutions** — from data collection, ETL pipelines, pred
 - ETL Pipelines & Predictive Analytics – Cleaned, modeled, visualized data  
 
 ### 🌐 Full-Stack & Web Systems
+- **PowerChins Construction** – Django web app with PostgreSQL, deployed on GCP, project management & site monitoring system  
 - AI-powered web apps using Django, React.js, Node.js  
 - RESTful API development & integration  
 - Cloud deployment & secure database optimization  
@@ -143,8 +100,10 @@ I deliver **end-to-end solutions** — from data collection, ETL pipelines, pred
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvinplp2024&show_icons=true&theme=radical&count_private=true" alt="Alvin's GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=alvinplp2024&show_icons=true&count_private=true&theme=radical" alt="Alvin's GitHub Stats" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinplp2024&theme=radical" alt="Alvin's GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinplp2024&layout=compact&theme=radical" alt="Alvin's Top Languages" />
 </p>
 
 ---
