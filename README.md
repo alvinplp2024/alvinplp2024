@@ -11,23 +11,34 @@
 
 
 <p align="center">
-  <a href="https://www.alvin-ondieki-portfolio.abrdns.com/" target="_blank">
+  <a href="https://www.alvin-ondieki-portfolio.abrdns.com/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://x.com/alvin_ondieki" target="_blank">
+  <a href="https://x.com/alvin_ondieki">
     <img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/alvin-ondieki" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.xoma.bookstores" target="_blank">
-    <img src="https://img.shields.io/badge/XOMA-App-F44336?style=for-the-badge&logo=android&logoColor=white" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.clsluxurycars.app" target="_blank">
-    <img src="https://img.shields.io/badge/CLS-Cars-FF9800?style=for-the-badge&logo=android&logoColor=white" />
+  <a href="https://www.instagram.com/data_scientist045/">
+    <img src="https://img.shields.io/badge/Instagram-FC0069?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
+---
+
+---
+
+## 🏗️ Latest Production Projects
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.xoma.bookstores">
+    <img src="https://img.shields.io/badge/XOMA-App-Production-F44336?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.clsluxurycars.app">
+    <img src="https://img.shields.io/badge/CLS-Cars-Production-FF9800?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+  <a href="mailto:alvinondieki5@gmail.com">
+    <img src="https://img.shields.io/badge/PowerChins-Web-Request%20Access-4B0082?style=for-the-badge&logo=django&logoColor=white" />
+  </a>
+</p>
 
 
 ---
