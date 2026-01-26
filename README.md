@@ -103,7 +103,7 @@ Docker, Kubernetes, Linux, VMware, Arduino, Raspberry Pi, REDCap, ODK, DF-Net
   <img src="https://github-readme-stats.vercel.app/api?username=alvinplp2024&show_icons=true&count_private=true&theme=radical" alt="Alvin's GitHub Stats" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinplp2024&theme=radical" alt="Alvin's GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinplp2024&layout=compact&theme=radical&hide=Jupyter%20Notebook&langs_count=5&custom_title=Most%20Used%20Languages" alt=" Alvin's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinplp2024&layout=compact&theme=radical&langs_count=8&hide=Jupyter%20Notebook&custom_title=Most%20Used%20Languages" alt="Alvin's Top Languages" />
 </p>
 
 ---
