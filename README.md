@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alvin Onyiego Ondieki</h1>
+<h1 align="center">Hi 👋, I'm Alvin Ondieki</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=300&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+Engineer;Software+Engineer;IT+Specialist;Flutter+%26+Backend+Developer" />
