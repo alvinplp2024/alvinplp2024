@@ -17,7 +17,7 @@
   <a href="https://x.com/alvin_ondieki">
     <img src="https://img.shields.io/badge/Twitter-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/data_scientist045/">
+  <a href="https://www.instagram.com/alvin_ondieki/">
     <img src="https://img.shields.io/badge/Instagram-FC0069?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
